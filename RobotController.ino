@@ -1,14 +1,11 @@
 /*************************************************************************
-* File Name          : RemoteControlRobot.ino
-* Author             : Evan
-* Updated            : Evan
+* File Name          : RobotController.ino
+* Author             : Brice & Fred
+* Updated            : 
 * Version            : V1.0.0
-* Date               : 3/26/2013
-* Description        : Example for Starter Kit. Use the motor driver on 
-                       base shield.
+* Date               : 6/24/2013
+* Description        : Receive and parse instructions from serial
 * License            : CC-BY-SA 3.0
-* Copyright (C) 2011 Hulu Robot Technology Co., Ltd. All right reserved.
-* http://www.makeblock.cc/
 **************************************************************************/
 
 #include <Me_BaseShield.h>
